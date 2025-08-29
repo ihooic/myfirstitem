@@ -1,0 +1,2 @@
+# myfirstitem
+easily for lsp
